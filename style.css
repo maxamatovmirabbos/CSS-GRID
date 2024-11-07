@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yashil{
+    width: 1440px;
+    height: 100px;
+    background-color: #78C2A8;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.blue{
+    width: 340px;
+    height: 358px;
+    background-color: #6193F4;
+    margin-left: 133px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.baklajan{
+    width: 600px;
+    height: 672px;
+    background-color: #9061F4;
+    margin: 0 auto;
+    margin-top: -360px;
+    border-radius: 10px;
+}
+.blue2{
+    width: 340px;
+    height: 284px;
+    background-color: #6193F4;
+    margin-left: 133px;
+    margin-top: -280px;
+    border-radius: 10px;
+}
