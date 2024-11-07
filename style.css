@@ -3,20 +3,39 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+   
+}
 .yashil{
-    width: 1440px;
+    width: 100%;
     height: 100px;
     background-color: #78C2A8;
     margin: 0 auto;
     border-radius: 10px;
 }
+.yashil:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    
+}
 .blue{
     width: 340px;
     height: 358px;
     background-color: #6193F4;
-    margin-left: 133px;
+    margin-left: 90px;
     margin-top: 30px;
     border-radius: 10px;
+}
+.blue:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+
 }
 .baklajan{
     width: 600px;
@@ -25,12 +44,78 @@
     margin: 0 auto;
     margin-top: -360px;
     border-radius: 10px;
+    margin-right: 450px;
+}
+.baklajan:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    
 }
 .blue2{
     width: 340px;
     height: 284px;
     background-color: #6193F4;
-    margin-left: 133px;
+    margin-left: 90px;
     margin-top: -280px;
     border-radius: 10px;
+}
+.blue2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    
+}
+.footer{
+    width: 980px;
+    height: 162px;
+    background-color: #F4B161;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+.footer:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    
+}
+.red{
+    width: 320px;
+    height: 358px;
+    background-color: #F46161;
+    margin-top: 30px;
+    margin-left: 1105px;
+    margin-top: -865px;
+    border-radius: 10px;
+}
+.red:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    
+}
+.red2{
+    width: 320px;
+    height: 476px;
+    margin-top: 30px;
+    background-color: #F46161;
+    margin-left: 1105px;
+    border-radius: 10px;
+}
+.red2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: box-shadow 0.3s ease-in-out;
+    
 }
